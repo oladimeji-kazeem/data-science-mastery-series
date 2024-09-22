@@ -24,58 +24,74 @@ Each session includes:
 
 ## **Sessions Breakdown**
 
-### **Session 1: Introduction to Data Science**
+### **Session 1: Introduction to Data Science & Career Opportunities**
 - Overview of Data Science and Its Applications
 - Key concepts: machine learning, data analysis, AI
 - Data Science tools and environment setup (Python, Jupyter Notebooks, Anaconda)
 - Introduction to Python basics for data science
 
-### **Session 2: Python for Data Science**
-- Data types, loops, and functions
-- File handling and working with Python libraries
-- Understanding virtual environments and package management
+### **Session 2: Basic Python Installation**
+- Setting up Python Environment
+- Why setup Python for Data Tasks?
+- Python Installation: Step by step
+  
+### **Session 3: Basic Python: Definition & Concepts**
+- Definition of Python syntax.
+- Python variables
+- Data Types
+- Basic Operations in Python
+- Variable Type Conversion
+- Best Practices for Naming Variables
+- Coding Practices: Five business examples for learners at all levels.
 
-### **Session 3: Data Handling with Pandas**
-- Introduction to Pandas
-- Working with DataFrames and Series
-- Data manipulation and analysis with Pandas
+### **Session 4: Python Control Flow**
+- Understanding the basics of control flow in Python.
+- How to use if-else statements to make decisions in your code.
+- Leveraging loops to automate repetitive tasks efficiently.
+- Creating reusable blocks of code with functions.
+- Real-life business scenarios where these Python concepts are applied, including customer segmentation, inventory management, and dynamic pricing.
 
-### **Session 4: Data Exploration and Visualization**
+### **Session 5: Python Data Structures - List, Tuple, Sets and Dictionaries**
+- Lists: How to create, update, and manipulate dynamic collections of data.
+- Tuples: When to use immutable sequences for fixed data configurations.
+- Dictionaries: Efficiently map and retrieve data using key-value pairs.
+- Sets: Eliminate duplicates and perform mathematical set operations with ease.
+- Real-life business scenarios: Managing an e-commerce inventory 🛒, Handling customer data in a CRM system 💼, Detecting duplicates in a marketing email campaign ✉️.
+
+### **Session 6: Data Manipulation with Numpy**
+- What is NumPy and why it's so powerful in the Python ecosystem.
+- Key differences between NumPy arrays and Python lists.
+- The major advantages of using NumPy for numerical computations, including speed, memory efficiency, and vast mathematical capabilities.
+- Real - world examples.
+
+### **Session 7: Data Manipulation with Pandas**
+- Introduction to Pandas data structures and how to create and manipulate them.
+- Loading & Exporting Data: Practical examples of loading and exporting data in CSV, Excel, SQL, and from web sources. 
+- Data Cleaning: Handling missing data and duplicates
+- Data Transformation: How to filter, sort, and group data to uncover hidden insights and transform your dataset.
+- Merging, Joining, & Concatenating DataFrames: A comprehensive guide to combining multiple datasets into a single, unified dataset.
+
+### **Session 8: Data Exploration and Visualization**
 - Introduction to data exploration techniques
 - Visualizing data with Matplotlib and Seaborn
 - Data correlation and basic statistical insights
 
-### **Session 5: Data Cleaning and Preprocessing**
-- Handling missing data and duplicates
-- Data transformation: normalization, scaling, and encoding
-- Working with categorical and continuous variables
-
-### **Session 6: Working with NumPy**
-- Understanding NumPy arrays and their advantages
-- Basic NumPy operations for data analysis
-- Broadcasting and manipulating arrays
-
-### **Session 7: Introduction to Databases and SQL**
+### **Session 9: Introduction to Databases and SQL**
 - Basics of relational databases
 - Querying databases using SQL
 - Integrating SQL with Python (SQLite, PostgreSQL)
 
-### **Session 8: Advanced Data Wrangling**
-- Advanced Pandas functions: merging, joining, and pivot tables
-- Reshaping, filtering, and grouping data
-- Time series data analysis
-
-### **Session 9: Introduction to Machine Learning**
+### **Session 10: Introduction to Machine Learning**
 - Supervised vs. Unsupervised learning
 - Introduction to Scikit-learn and basic ML models
 - Building a simple linear regression model
 
-### **Session 10: Classification Models**
+### **Session 11a: Classification Models**
 - Introduction to classification algorithms (Logistic Regression, K-Nearest Neighbors)
 - Evaluation metrics: accuracy, precision, recall, F1 score
 - Building classification models with Scikit-learn
 
-### **Session 11: Decision Trees and Random Forests**
+### **Session 11b: Decision Trees and Random Forests**
 - Understanding decision trees and their applications
 - Building decision tree models
 - Introduction to ensemble methods (Random Forests)
