@@ -132,6 +132,10 @@ Each session includes:
 Throughout the course, you will work on several mini-projects and a final **Capstone Project** to apply the skills you've learned:
 
 - Predictive modeling (e.g., house price prediction)
+- Sales Analysis for a Retail Store
+- Customer Segmentation for an E-commerce Company
+- Employee Performance Evaluation and Predictions for an HR Department
+- Inventory Management for a Manufacturing Company
 - Image classification with CNNs
 - Sentiment analysis on social media data
 - Time series forecasting for stock prices
